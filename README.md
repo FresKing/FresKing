@@ -70,7 +70,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=FresKing&show_icons=true&theme=tokyonight" height="165"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FresKing&layout=compact&theme=tokyonight" height="165"/>
 </p>
@@ -93,12 +93,3 @@
 </p>
 
 ---
-
-### ✨ Quote
-> *“Code error? nahh.. Human Error? Yeahhh”*  
-
----
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/FresKing/FresKing/snake-output/snake.svg" alt="Snake animation" />
-
-###
